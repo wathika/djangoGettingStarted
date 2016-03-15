@@ -32,7 +32,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/wathika/workspace/genesis/hellodjango/venv"
+set -gx VIRTUAL_ENV "/home/wathika/workspace/d3v/genesis/hellodjango/venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
